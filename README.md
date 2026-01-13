@@ -12,8 +12,12 @@
 
 🏆 On this GitHub page, we will be sharing some basic code first, and eventually, our whole code, nearing the competition date. 🏆
 
-🍀 We wish all teams the best of luck this season. We hope to see all of you in person! 🍀
+🍀 We wish all teams the best of luck this season. We hope to see all of you in person! 🍀 <br>
 
+
+<br>
+<br>
+<br>
 
 🌱 Hi Rookie Teams! 🌱
 
